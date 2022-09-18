@@ -34,7 +34,6 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadRasooli&theme=algolia" alt="MohmmadRasooli" /></p>
 
-  <br/>
   <p align="center">
 <br/>
   &nbsp;
