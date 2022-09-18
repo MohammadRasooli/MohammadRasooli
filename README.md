@@ -34,16 +34,12 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadRasooli&theme=algolia" alt="MohmmadRasooli" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
- <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadRasooli&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MohammadRasooli" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
