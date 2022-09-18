@@ -4,7 +4,7 @@
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+things+^_^&center=true&width=500&height=50"></a>
 
-<p><img align="right" src="https://img.favpng.com/9/22/13/vector-graphics-computer-programming-computer-software-software-development-software-developer-png-favpng-tggx34aeeRVZwvM3KpgYiC6nK.jpg" alt="SubhadeepZilong" height="300px" /></p>
+<p><img align="right" src="https://the7eagles.com/wp-content/uploads/2022/02/web-development-image-01.png" alt="SubhadeepZilong" height="300px" /></p>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
