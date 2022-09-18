@@ -13,7 +13,7 @@
 <a href="https://twitter.com/TheRealMhmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="TheRealMhmd" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammad-rasooli-658938250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="mohammad-rasooli-658938250" height="30" width="40" /></a>
 <a href="https://instagram.com/TheOnlyMhmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="TheOnlyMhmd" height="30" width="40" /></a>
-<a href="https://t.me/OnlyBerlin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="OnlyMhmd" height="30" width="40" /></a>
+<a href="https://t.me/OnlyBerlin" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="OnlyMhmd" height="30" width="40" /></a>
 
 
 
