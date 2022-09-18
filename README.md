@@ -4,7 +4,7 @@
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+things+^_^&center=true&width=500&height=50"></a>
 
-<p><img align="right" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif" alt="SubhadeepZilong" height="300px" /></p>
+<p><img align="right" src="https://sithcomputers.com/wp-content/uploads/2021/02/11th-and-12th-cs-1.gif" alt="SubhadeepZilong" height="300px" /></p>
 
 
 
