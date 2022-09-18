@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Mohammad Rasooli</h1>
 <h3 align="center">I'm an Aspiring Developer and Student from iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeepzilong&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepzilong" /> </p>
-
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheRealMhmd?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheRealMhmd&screen_name=TheRealMhmd)
