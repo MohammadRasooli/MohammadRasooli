@@ -16,7 +16,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
 <a href="https://twitter.com/TheRealMhmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/MohammadRasooli/MohammadRasooli/main/icons/Social/twitter.svg" alt="TheRealMhmd" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammad-rasooli-658938250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/MohammadRasooli/MohammadRasooli/main/icons/Social/linked-in-alt.svg" alt="mohammad-rasooli-658938250" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-rasooli-658938250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="mohammad-rasooli-658938250" height="30" width="40" /></a>
 <a href="https://instagram.com/TheOnlyMhmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/MohammadRasooli/MohammadRasooli/main/icons/Social/instagram.svg" alt="TheOnlyMhmd" height="30" width="40" /></a>
 
 
