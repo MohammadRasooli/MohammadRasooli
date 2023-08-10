@@ -23,7 +23,10 @@
 <p align="left">
 <a href="https://code.visualstudio.com/"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VScode" width="40" height="40"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="C#" width="40" height="40"/></a>
-<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="VScode" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="ASP.NET CORE" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/></a>
+<a href="https://git-scm.com/"> <img align="center" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/></a>
+<a href="https://www.python.org/"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/></a>
 
 
 
