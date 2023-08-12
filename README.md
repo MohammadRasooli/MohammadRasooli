@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Mohammad Rasooli</h1>
-<h3 align="center">I'm an Motivated Developer and Student from iran</h3>
+<h3 align="center">I'm a Motivated Developer and Student from Iran</h3>
 
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+things+^_^&center=true&width=500&height=50"></a>
