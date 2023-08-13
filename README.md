@@ -7,7 +7,7 @@
 <p><img align="right" src="https://the7eagles.com/wp-content/uploads/2022/02/web-development-image-01.png" alt="SubhadeepZilong" height="300px" /></p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me ^-^
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
 <p align="left">
 <a href="https://twitter.com/_MoeRjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="_MoeRjo" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammad-rasooli-658938250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="mohammad-rasooli-658938250" height="30" width="40" /></a>
